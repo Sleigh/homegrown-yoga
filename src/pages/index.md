@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
 title: Home Grown Yoga
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/pexels-photo-1171581.jpeg
+heading: Homegrown Yoga
+subheading: Grow your yoga practice where you are
 mainpitch:
   title: Why Homegrown Yoga
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Homegrown yoga was started as a donation-only studio to serve people during
+    the Covid-19 lockdown. 
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
